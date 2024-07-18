@@ -1,4 +1,4 @@
-# Yuna User Guide
+# Yuna Chatbot User Guide
 
 ---
 Yuna is a personalized chat bot that helps you keep track of your tasks, events and deadlines! It comes included 
